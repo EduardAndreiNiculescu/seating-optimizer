@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="780" viewBox="0 0 690 780" font-family="Inter,Segoe UI,Arial,sans-serif">
+<rect width="100%" height="100%" fill="#0f1115"/>
+<text x="24" y="40" fill="#f5f5f5" font-size="22" font-weight="700">Demo gala · 48 parties · 81 guests</text>
+<text x="24" y="66" fill="#9aa0a6" font-size="15">score 1925 · 23 improving swaps · 0 unassigned</text>
+<circle cx="115" cy="195" r="58" fill="#1b1f27" stroke="#2c3240" stroke-width="2"/>
+<text x="115" y="191" fill="#f5f5f5" font-size="18" font-weight="700" text-anchor="middle">T1</text>
+<text x="115" y="213" fill="#9aa0a6" font-size="12" text-anchor="middle">10/10 · +200</text>
+<circle cx="115.0" cy="115.0" r="11" fill="hsl(0 70% 58%)"><title>p8</title></circle>
+<circle cx="162.0" cy="130.3" r="11" fill="hsl(138 70% 46%)"><title>p14</title></circle>
+<circle cx="191.1" cy="170.3" r="11" fill="hsl(138 70% 46%)"><title>p14</title></circle>
+<circle cx="191.1" cy="219.7" r="11" fill="hsl(138 70% 46%)"><title>p14</title></circle>
+<circle cx="162.0" cy="259.7" r="11" fill="hsl(275 70% 58%)"><title>p3</title></circle>
+<circle cx="115.0" cy="275.0" r="11" fill="hsl(275 70% 58%)"><title>p3</title></circle>
+<circle cx="68.0" cy="259.7" r="11" fill="hsl(53 70% 46%)"><title>p36</title></circle>
+<circle cx="38.9" cy="219.7" r="11" fill="hsl(53 70% 46%)"><title>p36</title></circle>
+<circle cx="38.9" cy="170.3" r="11" fill="hsl(53 70% 46%)"><title>p36</title></circle>
+<circle cx="68.0" cy="130.3" r="11" fill="hsl(190 70% 58%)"><title>p13</title></circle>
+<circle cx="345" cy="195" r="58" fill="#1b1f27" stroke="#2c3240" stroke-width="2"/>
+<text x="345" y="191" fill="#f5f5f5" font-size="18" font-weight="700" text-anchor="middle">T2</text>
+<text x="345" y="213" fill="#9aa0a6" font-size="12" text-anchor="middle">10/10 · +375</text>
+<circle cx="345.0" cy="115.0" r="11" fill="hsl(328 70% 46%)"><title>p38</title></circle>
+<circle cx="392.0" cy="130.3" r="11" fill="hsl(328 70% 46%)"><title>p38</title></circle>
+<circle cx="421.1" cy="170.3" r="11" fill="hsl(328 70% 46%)"><title>p38</title></circle>
+<circle cx="421.1" cy="219.7" r="11" fill="hsl(105 70% 58%)"><title>p30</title></circle>
+<circle cx="392.0" cy="259.7" r="11" fill="hsl(105 70% 58%)"><title>p30</title></circle>
+<circle cx="345.0" cy="275.0" r="11" fill="hsl(243 70% 46%)"><title>p7</title></circle>
+<circle cx="298.0" cy="259.7" r="11" fill="hsl(20 70% 58%)"><title>p31</title></circle>
+<circle cx="268.9" cy="219.7" r="11" fill="hsl(158 70% 46%)"><title>p12</title></circle>
+<circle cx="268.9" cy="170.3" r="11" fill="hsl(158 70% 46%)"><title>p12</title></circle>
+<circle cx="298.0" cy="130.3" r="11" fill="hsl(295 70% 58%)"><title>p16</title></circle>
+<circle cx="575" cy="195" r="58" fill="#1b1f27" stroke="#2c3240" stroke-width="2"/>
+<text x="575" y="191" fill="#f5f5f5" font-size="18" font-weight="700" text-anchor="middle">T3</text>
+<text x="575" y="213" fill="#9aa0a6" font-size="12" text-anchor="middle">10/10 · +375</text>
+<circle cx="575.0" cy="115.0" r="11" fill="hsl(73 70% 46%)"><title>p26</title></circle>
+<circle cx="622.0" cy="130.3" r="11" fill="hsl(210 70% 58%)"><title>p35</title></circle>
+<circle cx="651.1" cy="170.3" r="11" fill="hsl(348 70% 46%)"><title>p27</title></circle>
+<circle cx="651.1" cy="219.7" r="11" fill="hsl(348 70% 46%)"><title>p27</title></circle>
+<circle cx="622.0" cy="259.7" r="11" fill="hsl(125 70% 58%)"><title>p23</title></circle>
+<circle cx="575.0" cy="275.0" r="11" fill="hsl(125 70% 58%)"><title>p23</title></circle>
+<circle cx="528.0" cy="259.7" r="11" fill="hsl(263 70% 46%)"><title>p18</title></circle>
+<circle cx="498.9" cy="219.7" r="11" fill="hsl(40 70% 58%)"><title>p41</title></circle>
+<circle cx="498.9" cy="170.3" r="11" fill="hsl(178 70% 46%)"><title>p24</title></circle>
+<circle cx="528.0" cy="130.3" r="11" fill="hsl(315 70% 58%)"><title>p42</title></circle>
+<circle cx="115" cy="425" r="58" fill="#1b1f27" stroke="#2c3240" stroke-width="2"/>
+<text x="115" y="421" fill="#f5f5f5" font-size="18" font-weight="700" text-anchor="middle">T4</text>
+<text x="115" y="443" fill="#9aa0a6" font-size="12" text-anchor="middle">10/10 · +145</text>
+<circle cx="115.0" cy="345.0" r="11" fill="hsl(93 70% 46%)"><title>p4</title></circle>
+<circle cx="162.0" cy="360.3" r="11" fill="hsl(93 70% 46%)"><title>p4</title></circle>
+<circle cx="191.1" cy="400.3" r="11" fill="hsl(230 70% 58%)"><title>p28</title></circle>
+<circle cx="191.1" cy="449.7" r="11" fill="hsl(230 70% 58%)"><title>p28</title></circle>
+<circle cx="162.0" cy="489.7" r="11" fill="hsl(8 70% 46%)"><title>p44</title></circle>
+<circle cx="115.0" cy="505.0" r="11" fill="hsl(8 70% 46%)"><title>p44</title></circle>
+<circle cx="68.0" cy="489.7" r="11" fill="hsl(145 70% 58%)"><title>p21</title></circle>
+<circle cx="38.9" cy="449.7" r="11" fill="hsl(145 70% 58%)"><title>p21</title></circle>
+<circle cx="38.9" cy="400.3" r="11" fill="hsl(283 70% 46%)"><title>p33</title></circle>
+<circle cx="68.0" cy="360.3" r="11" fill="hsl(283 70% 46%)"><title>p33</title></circle>
+<circle cx="345" cy="425" r="58" fill="#1b1f27" stroke="#2c3240" stroke-width="2"/>
+<text x="345" y="421" fill="#f5f5f5" font-size="18" font-weight="700" text-anchor="middle">T5</text>
+<text x="345" y="443" fill="#9aa0a6" font-size="12" text-anchor="middle">10/10 · +185</text>
+<circle cx="345.0" cy="345.0" r="11" fill="hsl(60 70% 58%)"><title>p19</title></circle>
+<circle cx="392.0" cy="360.3" r="11" fill="hsl(60 70% 58%)"><title>p19</title></circle>
+<circle cx="421.1" cy="400.3" r="11" fill="hsl(198 70% 46%)"><title>p39</title></circle>
+<circle cx="421.1" cy="449.7" r="11" fill="hsl(335 70% 58%)"><title>p37</title></circle>
+<circle cx="392.0" cy="489.7" r="11" fill="hsl(335 70% 58%)"><title>p37</title></circle>
+<circle cx="345.0" cy="505.0" r="11" fill="hsl(335 70% 58%)"><title>p37</title></circle>
+<circle cx="298.0" cy="489.7" r="11" fill="hsl(113 70% 46%)"><title>p40</title></circle>
+<circle cx="268.9" cy="449.7" r="11" fill="hsl(113 70% 46%)"><title>p40</title></circle>
+<circle cx="268.9" cy="400.3" r="11" fill="hsl(250 70% 58%)"><title>p5</title></circle>
+<circle cx="298.0" cy="360.3" r="11" fill="hsl(28 70% 46%)"><title>p15</title></circle>
+<circle cx="575" cy="425" r="58" fill="#1b1f27" stroke="#2c3240" stroke-width="2"/>
+<text x="575" y="421" fill="#f5f5f5" font-size="18" font-weight="700" text-anchor="middle">T6</text>
+<text x="575" y="443" fill="#9aa0a6" font-size="12" text-anchor="middle">9/10 · +170</text>
+<circle cx="575.0" cy="345.0" r="11" fill="hsl(165 70% 58%)"><title>p20</title></circle>
+<circle cx="622.0" cy="360.3" r="11" fill="hsl(303 70% 46%)"><title>p11</title></circle>
+<circle cx="651.1" cy="400.3" r="11" fill="hsl(303 70% 46%)"><title>p11</title></circle>
+<circle cx="651.1" cy="449.7" r="11" fill="hsl(303 70% 46%)"><title>p11</title></circle>
+<circle cx="622.0" cy="489.7" r="11" fill="hsl(80 70% 58%)"><title>p34</title></circle>
+<circle cx="575.0" cy="505.0" r="11" fill="hsl(80 70% 58%)"><title>p34</title></circle>
+<circle cx="528.0" cy="489.7" r="11" fill="hsl(218 70% 46%)"><title>p17</title></circle>
+<circle cx="498.9" cy="449.7" r="11" fill="hsl(218 70% 46%)"><title>p17</title></circle>
+<circle cx="498.9" cy="400.3" r="11" fill="hsl(355 70% 58%)"><title>p25</title></circle>
+<circle cx="528.0" cy="360.3" r="11" fill="none" stroke="#3a4150" stroke-dasharray="3 3"/>
+<circle cx="115" cy="655" r="58" fill="#1b1f27" stroke="#2c3240" stroke-width="2"/>
+<text x="115" y="651" fill="#f5f5f5" font-size="18" font-weight="700" text-anchor="middle">T7</text>
+<text x="115" y="673" fill="#9aa0a6" font-size="12" text-anchor="middle">10/10 · +290</text>
+<circle cx="115.0" cy="575.0" r="11" fill="hsl(133 70% 46%)"><title>p10</title></circle>
+<circle cx="162.0" cy="590.3" r="11" fill="hsl(133 70% 46%)"><title>p10</title></circle>
+<circle cx="191.1" cy="630.3" r="11" fill="hsl(270 70% 58%)"><title>p6</title></circle>
+<circle cx="191.1" cy="679.7" r="11" fill="hsl(270 70% 58%)"><title>p6</title></circle>
+<circle cx="162.0" cy="719.7" r="11" fill="hsl(270 70% 58%)"><title>p6</title></circle>
+<circle cx="115.0" cy="735.0" r="11" fill="hsl(48 70% 46%)"><title>p9</title></circle>
+<circle cx="68.0" cy="719.7" r="11" fill="hsl(185 70% 58%)"><title>p2</title></circle>
+<circle cx="38.9" cy="679.7" r="11" fill="hsl(323 70% 46%)"><title>p1</title></circle>
+<circle cx="38.9" cy="630.3" r="11" fill="hsl(100 70% 58%)"><title>p32</title></circle>
+<circle cx="68.0" cy="590.3" r="11" fill="hsl(238 70% 46%)"><title>p47</title></circle>
+<circle cx="345" cy="655" r="58" fill="#1b1f27" stroke="#2c3240" stroke-width="2"/>
+<text x="345" y="651" fill="#f5f5f5" font-size="18" font-weight="700" text-anchor="middle">T8</text>
+<text x="345" y="673" fill="#9aa0a6" font-size="12" text-anchor="middle">9/10 · +105</text>
+<circle cx="345.0" cy="575.0" r="11" fill="hsl(15 70% 58%)"><title>p22</title></circle>
+<circle cx="392.0" cy="590.3" r="11" fill="hsl(153 70% 46%)"><title>p43</title></circle>
+<circle cx="421.1" cy="630.3" r="11" fill="hsl(153 70% 46%)"><title>p43</title></circle>
+<circle cx="421.1" cy="679.7" r="11" fill="hsl(290 70% 58%)"><title>p45</title></circle>
+<circle cx="392.0" cy="719.7" r="11" fill="hsl(290 70% 58%)"><title>p45</title></circle>
+<circle cx="345.0" cy="735.0" r="11" fill="hsl(68 70% 46%)"><title>p46</title></circle>
+<circle cx="298.0" cy="719.7" r="11" fill="hsl(68 70% 46%)"><title>p46</title></circle>
+<circle cx="268.9" cy="679.7" r="11" fill="hsl(205 70% 58%)"><title>p48</title></circle>
+<circle cx="268.9" cy="630.3" r="11" fill="hsl(205 70% 58%)"><title>p48</title></circle>
+<circle cx="298.0" cy="590.3" r="11" fill="none" stroke="#3a4150" stroke-dasharray="3 3"/>
+<circle cx="575" cy="655" r="58" fill="#1b1f27" stroke="#2c3240" stroke-width="2"/>
+<text x="575" y="651" fill="#f5f5f5" font-size="18" font-weight="700" text-anchor="middle">T9</text>
+<text x="575" y="673" fill="#9aa0a6" font-size="12" text-anchor="middle">3/10 · +0</text>
+<circle cx="575.0" cy="575.0" r="11" fill="hsl(343 70% 46%)"><title>p29</title></circle>
+<circle cx="622.0" cy="590.3" r="11" fill="hsl(343 70% 46%)"><title>p29</title></circle>
+<circle cx="651.1" cy="630.3" r="11" fill="hsl(343 70% 46%)"><title>p29</title></circle>
+<circle cx="651.1" cy="679.7" r="11" fill="none" stroke="#3a4150" stroke-dasharray="3 3"/>
+<circle cx="622.0" cy="719.7" r="11" fill="none" stroke="#3a4150" stroke-dasharray="3 3"/>
+<circle cx="575.0" cy="735.0" r="11" fill="none" stroke="#3a4150" stroke-dasharray="3 3"/>
+<circle cx="528.0" cy="719.7" r="11" fill="none" stroke="#3a4150" stroke-dasharray="3 3"/>
+<circle cx="498.9" cy="679.7" r="11" fill="none" stroke="#3a4150" stroke-dasharray="3 3"/>
+<circle cx="498.9" cy="630.3" r="11" fill="none" stroke="#3a4150" stroke-dasharray="3 3"/>
+<circle cx="528.0" cy="590.3" r="11" fill="none" stroke="#3a4150" stroke-dasharray="3 3"/>
+</svg>

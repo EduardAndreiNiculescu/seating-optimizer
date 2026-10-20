@@ -1,0 +1,13 @@
+{
+  "name": "seating-optimizer",
+  "version": "1.0.0",
+  "description": "Table seating for networking events: parties never split, hard blocks, mutual wishes, industry mix. Greedy + 2-opt, zero dependencies.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22.18" },
+  "exports": { ".": "./src/seating.ts" },
+  "scripts": {
+    "test": "node --test \"tests/*.test.ts\"",
+    "demo": "node examples/demo.ts"
+  }
+}
